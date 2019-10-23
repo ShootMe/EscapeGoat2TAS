@@ -453,6 +453,11 @@ Read,TAS\7-10,2
  357
 Read,TAS\7-11,2
  463
+   1,L
+   1,U
+   1,L
+   1
+   1,L
 
 #World 8
 Read,TAS\8-05D,2
@@ -468,13 +473,34 @@ Read,TAS\8-09,2
 Read,TAS\8-10,2
  357
 Read,TAS\8-11,2
- 463
+ 653
 
 #World 9
 Read,TAS\R-7U,2
  369
 Read,TAS\R-8R,2
  377
+Read,TAS\9-01S,2
+ 377
+Read,TAS\S-12,2
+ 463
+   1,U
+   1,L
+   1,U
+   1
+   1,U
+   1
+   1,U
+   1
+   1,U
+   1
+   1,U
+   1
+   1,U
+   1
+   1,U
+   1
+   1,U
 Read,TAS\9-01,2
  357
 Read,TAS\9-02,2
