@@ -1,4 +1,4 @@
-# Escape Goat 2 TAS Files
+# Escape Goat 1 & 2 TAS Files
 
 ## Input File
 Format for the input file is (Frames),(Actions)

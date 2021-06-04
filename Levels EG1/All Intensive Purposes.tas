@@ -1,0 +1,123 @@
+#Start New Game
+   1,J
+ 334
+
+#Heart of Insanity
+Read,TAS\HI-DR,2
+ 236
+
+#Death Row
+Read,TAS\DR-1,2
+  86
+Read,TAS\DR-2,2
+  86
+Read,TAS\DR-3,2
+  86
+Read,TAS\DR-4,2
+  86
+Read,TAS\DR-5,2
+  86
+Read,TAS\DR-6,2
+  86
+Read,TAS\DR-7,2
+  86
+Read,TAS\DR-8,2
+  86
+Read,TAS\DR-9,2
+ 238
+
+#Heart of Insanity
+Read,TAS\HI-HL,2
+ 236
+
+#Hinterlands
+Read,TAS\HL-1,2
+  86
+Read,TAS\HL-2,2
+  86
+Read,TAS\HL-3,2
+  86
+Read,TAS\HL-4,2
+  86
+Read,TAS\HL-5,2
+  86
+Read,TAS\HL-6,2
+  86
+Read,TAS\HL-7,2
+  86
+Read,TAS\HL-8,2
+  86
+Read,TAS\HL-9,2
+ 238
+
+#Heart of Insanity
+Read,TAS\HI-UC,2
+ 236
+
+#Underground Compound
+Read,TAS\UC-1,2
+  86
+Read,TAS\UC-2,2
+  86
+Read,TAS\UC-3,2
+  86
+Read,TAS\UC-4,2
+  86
+Read,TAS\UC-5,2
+  86
+Read,TAS\UC-6,2
+  86
+Read,TAS\UC-7,2
+  86
+Read,TAS\UC-8,2
+  86
+Read,TAS\UC-9,2
+ 238
+
+#Heart of Insanity
+Read,TAS\HI-FI,2
+ 236
+
+#Fire and Ice
+Read,TAS\FI-1,2
+  86
+Read,TAS\FI-2,2
+  86
+Read,TAS\FI-3,2
+  86
+Read,TAS\FI-4,2
+  86
+Read,TAS\FI-5,2
+  86
+Read,TAS\FI-6,2
+  86
+Read,TAS\FI-7,2
+  86
+Read,TAS\FI-8,2
+  86
+Read,TAS\FI-9,2
+ 238
+
+#Heart of Insanity
+Read,TAS\HI-PS,2
+ 236
+
+#Power Supply
+Read,TAS\PS-1,2
+  86
+Read,TAS\PS-2,2
+  86
+Read,TAS\PS-3,2
+  86
+Read,TAS\PS-4,2
+  86
+Read,TAS\PS-5,2
+  86
+Read,TAS\PS-6,2
+  86
+Read,TAS\PS-7,2
+  86
+Read,TAS\PS-8,2
+  86
+Read,TAS\PS-9,2
+ 238

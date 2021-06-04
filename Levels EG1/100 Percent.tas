@@ -1,0 +1,186 @@
+#Start New Game
+   1,J
+1120
+
+#Prison of Agnus
+Read,TAS\PA-1,2
+  86
+Read,TAS\PA-2,2
+  86
+Read,TAS\PA-3,2
+  86
+Read,TAS\PA-4,2
+  86
+Read,TAS\PA-5,2
+  86
+Read,TAS\PA-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-FC,2
+ 236
+
+#Frozen Cavern
+Read,TAS\FC-1,2
+  86
+Read,TAS\FC-2,2
+  86
+Read,TAS\FC-3,2
+  86
+Read,TAS\FC-4,2
+  86
+Read,TAS\FC-5,2
+  86
+Read,TAS\FC-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-RC,2
+ 236
+
+#Ruins of Red Clay
+Read,TAS\RC-1,2
+  86
+Read,TAS\RC-2,2
+  86
+Read,TAS\RC-3,2
+  86
+Read,TAS\RC-4,2
+  86
+Read,TAS\RC-5,2
+  86
+Read,TAS\RC-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-DP,2
+ 236
+
+#Darkest Pits
+Read,TAS\DP-1,2
+  86
+Read,TAS\DP-2,2
+  86
+Read,TAS\DP-3,2
+  86
+Read,TAS\DP-4,2
+  86
+Read,TAS\DP-5,2
+  86
+Read,TAS\DP-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-EL,2
+ 236
+
+#Electric Lab
+Read,TAS\EL-1,2
+  86
+Read,TAS\EL-2,2
+  86
+Read,TAS\EL-3,2
+  86
+Read,TAS\EL-4,2
+  86
+Read,TAS\EL-5,2
+  86
+Read,TAS\EL-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-CR,2
+ 236
+
+#Crypt
+Read,TAS\CR-1,2
+  86
+Read,TAS\CR-2,2
+  86
+Read,TAS\CR-3,2
+  86
+Read,TAS\CR-4,2
+  86
+Read,TAS\CR-5,2
+  86
+Read,TAS\CR-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-LQ,2
+ 236
+
+#Limestone Quarry
+Read,TAS\LQ-1,2
+  86
+Read,TAS\LQ-2,2
+  86
+Read,TAS\LQ-3,2
+  86
+Read,TAS\LQ-4,2
+  86
+Read,TAS\LQ-5,2
+  86
+Read,TAS\LQ-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-EI,2
+ 236
+
+#Engine of Insanity
+Read,TAS\EI-1,2
+  86
+Read,TAS\EI-2,2
+  86
+Read,TAS\EI-3,2
+  86
+Read,TAS\EI-4,2
+  86
+Read,TAS\EI-5,2
+  86
+Read,TAS\EI-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-LC,2
+ 236
+
+#Lost City
+Read,TAS\LC-1,2
+  86
+Read,TAS\LC-2,2
+  86
+Read,TAS\LC-3,2
+  86
+Read,TAS\LC-4,2
+  86
+Read,TAS\LC-5,2
+  86
+Read,TAS\LC-6,2
+ 238
+
+#Gathering Place
+Read,TAS\GP-FP,2
+ 236
+
+#Final Path
+Read,TAS\FP-1,2
+  86
+Read,TAS\FP-2,2
+  86
+Read,TAS\FP-3,2
+  86
+Read,TAS\FP-4,2
+  86
+Read,TAS\FP-5,2
+  86
+Read,TAS\FP-6,2
+  86
+Read,TAS\FP-7,2
+  86
+Read,TAS\FP-8,2
+  86
+Read,TAS\FP-9,2
+  86
+Read,TAS\FP-10,2
