@@ -9,20 +9,20 @@
   12,J
    5
    6,R
-   5,L,J
-   1,L
-   5,L,J
-   5,R,J
-   1,R,Z,J
+   2,L,J
+   5,J
+   1
+   7,J
+   1
   17,R
-   5,R,J
-   4,L,J
-   1,L
-  15,L,J
+  11,R,J
+   1,R
+   1,R,J
+  12,L,J
   10,L,U,Z
-#1.85
+#1.833 Open Door
    1,L,D
    7,L,E
   10,R
  311,U
-#7.33
+#7.316 Closed Door
