@@ -5,40 +5,17 @@
 #R-7U
    1,R
    5,R,J
-   1,R,Z,J
-  20,R
+  20,R,Z,J
+   1,R
    6,R,J
    2,L,J
    1,L
   15,L,J
-   1,Z,J
-  17,L
-   4,L,J
+  17,Z,J
    1,L
-   1,L,J
+   6,L,J
   10,U,Z
-#1.40
-  11
-  38,L,Z
-   1,L,J
-  24,L
-  19,R
-  31,R,Z
-  18,R,Z
-  18,R,Z
-   4,R,J
-   1,R
-   1,R,J
-  21,R,Z
-   8,L,J
-   1,L
-  15,L,J
-   1,L,Z,J
-  17,L
-   4,L,J
-   1,L
-   1,L,J
-  18,L,Z
-   9,R
-  74,U
-#7.00
+#1.400 Open Door
+   7,D
+ 329,U,E
+#7.000 Closed Door
