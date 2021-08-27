@@ -10,22 +10,23 @@
   24,R,Z
   18,L,H,E
   20,R,U
-  18,L,Z,E
+   3,U,Z
+  15,L,E
   20,L,J
    1,L
   48,L,J
-  18,R,H
-  22,R,Z
-  22,R,H
+  19,R,H
+  18,R,Z
+  23,R,H
   24,R,Z
   19,R,H
   18,R,Z
+  19,R,Z
   18,R,Z
-   1,R,J
-  25,R,Z,J
   18,R,Z
    3,R,J
    1,R
    7,R,J
-  47,U,H
-#7.15
+  47,U,H,E
+#Open Door + Fragment
+#7.000 (420)

@@ -8,7 +8,7 @@
 Read,TAS\1-01S,2
  377
 Read,TAS\S-14,2
- 463
+ 462
 Read,TAS\1-01,2
  357
 Read,TAS\1-02,2
@@ -20,7 +20,7 @@ Read,TAS\1-04,2
 Read,TAS\1-05,2
  369
 Read,TAS\1-06,2
- 430
+ 429
 
 #World 2
 Read,TAS\R-1L,2
@@ -28,7 +28,7 @@ Read,TAS\R-1L,2
 Read,TAS\2-01S,2
  377
 Read,TAS\S-02,2
- 463
+ 462
    1,U
    1
    1,U
@@ -37,6 +37,7 @@ Read,TAS\S-02,2
    1,L
    1
    1,L
+   1
 Read,TAS\2-01,2
  357
 Read,TAS\2-02,2
@@ -46,7 +47,7 @@ Read,TAS\2-03,2
 Read,TAS\2-04,2
  357
 Read,TAS\2-05,2
- 463
+ 462
 
 #World 3
 Read,TAS\R-1U,2
@@ -60,7 +61,7 @@ Read,TAS\3-02,2
 Read,TAS\3-03S,2
  377
 Read,TAS\S-04,2
- 463
+ 462
    1,U
    1
    1,U
@@ -71,12 +72,13 @@ Read,TAS\S-04,2
    1
    1,U
    1,R
+   1
 Read,TAS\3-03,2
  357
 Read,TAS\3-04,2
  357
 Read,TAS\3-05,2
- 653
+ 652
 
 #World 4
 Read,TAS\R-2U,2
@@ -90,7 +92,7 @@ Read,TAS\4-02,2
 Read,TAS\4-03S,2
  377
 Read,TAS\S-06,2
- 463
+ 462
    1,U
    1
    1,U
@@ -103,12 +105,13 @@ Read,TAS\S-06,2
    1,L
    1
    1,L
+   1
 Read,TAS\4-03,2
  357
 Read,TAS\4-04,2
  357
 Read,TAS\4-05,2
- 463
+ 462
 
 #World 5
 Read,TAS\R-3U,2
@@ -124,7 +127,7 @@ Read,TAS\5-03,2
 Read,TAS\5-04,2
  357
 Read,TAS\5-05,2
- 653
+ 652
 
 #World 6
 Read,TAS\R-4U,2
@@ -140,7 +143,7 @@ Read,TAS\6-03,2
 Read,TAS\6-04,2
  357
 Read,TAS\6-05,2
- 709
+ 708
 
 #World 7
 Read,TAS\R-5U,2
@@ -154,7 +157,7 @@ Read,TAS\7-02S,2
 Read,TAS\S-10S,2
  377
 Read,TAS\S-11,2
- 463
+ 462
    1,U
    1
    1,U
@@ -168,8 +171,9 @@ Read,TAS\S-11,2
    1,U
    1,R
    1,U
+   1
 Read,TAS\S-10,2
- 463
+ 462
    1,U
    1
    1,U
@@ -183,6 +187,7 @@ Read,TAS\S-10,2
    1,U
    1
    1,U
+   1
 Read,TAS\7-02,2
  357
 Read,TAS\7-03,2
@@ -190,7 +195,7 @@ Read,TAS\7-03,2
 Read,TAS\7-04,2
  357
 Read,TAS\7-05,2
- 785
+ 784
 
 #World 8
 Read,TAS\R-6U,2
@@ -206,7 +211,7 @@ Read,TAS\8-03,2
 Read,TAS\8-04,2
  357
 Read,TAS\8-05,2
- 607
+ 606
    1,D
    1
    1,D
@@ -219,6 +224,7 @@ Read,TAS\8-05,2
    1
    1,D
    1,R
+   1
 
 #World 1
 Read,TAS\1-06D,2
@@ -230,20 +236,22 @@ Read,TAS\1-08,2
 Read,TAS\1-09S,2
  377
 Read,TAS\S-13,2
- 463
+ 462
    1,L
    1
    1,L
+   1
 Read,TAS\1-09,2
  357
 Read,TAS\1-10,2
  357
 Read,TAS\1-11,2
- 797
+ 796
    1,L
    1
    1,L
    1,D
+   1
 
 #World 2
 Read,TAS\2-05D,2
@@ -251,7 +259,7 @@ Read,TAS\2-05D,2
 Read,TAS\2-06S,2
  377
 Read,TAS\S-01,2
- 463
+ 462
    1,L
    1
    1,L
@@ -261,6 +269,7 @@ Read,TAS\S-01,2
    1,L
    1,U
    1,L
+   1
 Read,TAS\2-06,2
  357
 Read,TAS\2-07,2
@@ -272,13 +281,14 @@ Read,TAS\2-09,2
 Read,TAS\2-10,2
  357
 Read,TAS\2-11,2
- 607
+ 606
    1,R
    1
    1,R
    1
    1,R
    1,U
+   1
 
 #World 3
 Read,TAS\3-05D,2
@@ -288,11 +298,12 @@ Read,TAS\3-06,2
 Read,TAS\3-07S,2
  377
 Read,TAS\S-03,2
- 463
+ 462
    1,U
    1,R
    1,U
    1,R
+   1
 Read,TAS\3-07,2
  357
 Read,TAS\3-08,2
@@ -302,7 +313,7 @@ Read,TAS\3-09,2
 Read,TAS\3-10,2
  357
 Read,TAS\3-11,2
- 463
+ 462
    1,L
    1
    1,L
@@ -310,6 +321,7 @@ Read,TAS\3-11,2
    1,L
    1
    1,L
+   1
 
 #World 4
 Read,TAS\4-05D,2
@@ -323,7 +335,7 @@ Read,TAS\4-08,2
 Read,TAS\4-09S,2
  377
 Read,TAS\S-05,2
- 463
+ 462
    1,U
    1,L
    1,U
@@ -339,12 +351,13 @@ Read,TAS\S-05,2
    1
    1,L
    1,U
+   1
 Read,TAS\4-09,2
  357
 Read,TAS\4-10,2
  357
 Read,TAS\4-11,2
- 463
+ 462
    1,U
    1,R
    1,U
@@ -353,6 +366,7 @@ Read,TAS\4-11,2
    1,R
    1
    1,R
+   1
 
 #World 5
 Read,TAS\5-05D,2
@@ -364,7 +378,7 @@ Read,TAS\5-07,2
 Read,TAS\5-08S,2
  377
 Read,TAS\S-08,2
- 463
+ 462
    1,U
    1,R
    1,U
@@ -372,12 +386,13 @@ Read,TAS\S-08,2
    1,U
    1,R
    1,U
+   1
 Read,TAS\5-08,2
  357
 Read,TAS\5-09S,2
  377
 Read,TAS\S-07,2
- 463
+ 462
    1,U
    1,R
    1,U
@@ -385,17 +400,19 @@ Read,TAS\S-07,2
    1,U
    1
    1,U
+   1
 Read,TAS\5-09,2
  357
 Read,TAS\5-10,2
  357
 Read,TAS\5-11,2
- 463
+ 462
    1,L
    1,U
    1,L
    1
    1,L
+   1
 
 #World 6
 Read,TAS\6-05D,2
@@ -405,7 +422,7 @@ Read,TAS\6-06,2
 Read,TAS\6-07S,2
  377
 Read,TAS\S-09,2
- 463
+ 462
    1,U
    1,L
    1,U
@@ -420,6 +437,7 @@ Read,TAS\S-09,2
    1
    1,U
    1,L
+   1
 Read,TAS\6-07,2
  357
 Read,TAS\6-08,2
@@ -429,7 +447,7 @@ Read,TAS\6-09,2
 Read,TAS\6-10,2
  357
 Read,TAS\6-11,2
- 463
+ 462
    1,R
    1,U
    1,R
@@ -437,6 +455,7 @@ Read,TAS\6-11,2
    1,R
    1
    1,R
+   1
 
 #World 7
 Read,TAS\7-05D,2
@@ -452,12 +471,13 @@ Read,TAS\7-09,2
 Read,TAS\7-10,2
  357
 Read,TAS\7-11,2
- 463
+ 462
    1,L
    1,U
    1,L
    1
    1,L
+   1
 
 #World 8
 Read,TAS\8-05D,2
@@ -473,7 +493,7 @@ Read,TAS\8-09,2
 Read,TAS\8-10,2
  357
 Read,TAS\8-11,2
- 653
+ 652
 
 #World 9
 Read,TAS\R-7U,2
@@ -483,7 +503,7 @@ Read,TAS\R-8R,2
 Read,TAS\9-01S,2
  377
 Read,TAS\S-12,2
- 463
+ 462
    1,U
    1,L
    1,U
@@ -501,6 +521,7 @@ Read,TAS\S-12,2
    1,U
    1
    1,U
+   1
 Read,TAS\9-01,2
  357
 Read,TAS\9-02,2
@@ -522,3 +543,4 @@ Read,TAS\9-09,2
 Read,TAS\9-10,2
  357
 Read,TAS\9-11,2
+5730,J
