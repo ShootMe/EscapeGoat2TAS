@@ -14,32 +14,30 @@
   28,R
   13,R,J
    1,R
+   6,R,J
+  10,L,J
+   1,J
+   6,L,J
+  17,L
+   7,L,J
+   1,L
+  12,R,J
+  26,R,Z,J
+   1,R
    7,R,J
-  16,L,J
-  19,L
-   9,L,J
-   2,R
-  10,R,J
-  26,R,Z
-   5,R,J
    1,R
-  10,R,J
-  17,R,Z,J
-   1,R
-   1,R,J
-  40,R
-  13,L
-   6,R
-   3
-   9,L
+  16,R,J
+  38,R,Z
+   5,L
+  20
+   7,L
   30,L,H,E
-  11,L,U,Z
-  21,R,E
-  12,R,H,E
-  10,R,J
-  11,L,E
-   7,H,E
-   4,R,U,Z
-#7.300 (438) Open Door
+   1,L,J
+  10,L,U,Z
+  23,R,E
+  13,R,H,E
+   2,R,J
+  15,R,U,Z,J
+#6.866 (412) Open Door
    1,R,U
-#7.316 (439) Fragment
+#6.883 (413) Fragment
