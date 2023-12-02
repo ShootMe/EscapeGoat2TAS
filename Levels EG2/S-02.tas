@@ -33,10 +33,17 @@
    7,L
   30,L,H,E
    1,L,J
-  10,L,U,Z
+
+#Without Death Abuse
+# 10,U,Z
+#With
+  18,U,Z
+
   23,R,E
   13,R,H,E
    2,R,J
   15,R,U,Z,J
 #Open Door + Fragment
 #6.866 (412)
+#With Death Abuse
+#7.000 (420)
